@@ -18,7 +18,7 @@
 🌍 Let's connect and collaborate to make the digital world safer and more resilient. Feel free to reach out, and let's discuss network security, automation, or anything tech-related!
 
 📫 Contact me: anas.abu.ghanem@hotmail.com
-🌐 Portfolio: [Your Portfolio Website]
+🌐 Portfolio: 'Coming soon'
 📱 LinkedIn: https://www.linkedin.com/in/anasabughanem/
 
 
