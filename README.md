@@ -2,7 +2,7 @@
 
 👋 Hello! I'm Anas, a passionate Network infrastructure engineer with a strong background in Palo Alto and Cisco technologies. I thrive in the world of network security, ensuring the digital fortress remains impenetrable.
 
-💼 Currently, I'm working as a Network Security Consultant, specializing in Palo Alto Next-Generation Firewalls and Cisco network infrastructure. I design, configure, and manage secure network solutions to protect against cyber threats and ensure data integrity.
+💼 Currently, I'm working as a Network infrastructure engineer, specializing in network infrastructur working with Palo Alto Next-Generation Firewalls and Cisco network infrastructure. I design, configure, and manage secure network solutions to protect against cyber threats and ensure data integrity.
 
 🌐 My expertise includes:
    - Palo Alto NGFW (Prisma Access, GlobalProtect, IPSec, SSL decryption, PKI).
